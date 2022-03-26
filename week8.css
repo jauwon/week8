@@ -8,6 +8,11 @@ font-family: Georgia, 'Times New Roman', Times, serif;
  
 }
 
+* {
+    text-align: center;
+}
+
+
 p {
     font-size: 20px;
     color: red;
@@ -18,20 +23,39 @@ h1 {
     color: red;
     
 }
+    a {
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        color: red;
+
+}
 
 
-h2,h3 { 
+    h2, h3 { 
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: red;
-    border: 5%;
-    border-style: solid;
-    border-color:black;
-    border-width:thick;
-    border: radius 10cm;;
-    
+
+}
+
     
 }
 
+    
+
+
+    li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+
+    }
+
+li:hover {
+    color:green;
+}
+
+
+.center {
+    text-align: center;
+}
 
 ul {
     list-style:inside;
@@ -49,7 +73,7 @@ body {
     padding:5%;
     margin-trim:inherit;
     background-position: 100px;
-    margin-right: 110px;
+  
 
 }
 

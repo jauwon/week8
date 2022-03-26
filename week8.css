@@ -1,0 +1,55 @@
+
+title {
+color: red;
+}
+
+div {
+font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+
+p {
+    font-size: 20px;
+    color: red;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    
+}
+
+
+h2,h3 { 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    border: 5%;
+    border-style: solid;
+    border-color:black;
+    border-width:thick;
+    border: radius 10cm;;
+    
+    
+}
+
+
+ul {
+    list-style:inside;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    
+}
+
+body {
+    background-color:wheat;
+    border-style: solid;
+    padding:5%;
+    margin-trim:inherit;
+    background-position: 100px;
+    margin-right: 110px;
+
+}
+
